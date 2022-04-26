@@ -40,4 +40,4 @@
 
 ##   Our Team
 ##### 1. Saurabh chaudhary
-##### 2. Deepak chaturvedi
+##### 2. Shreyash Singh
